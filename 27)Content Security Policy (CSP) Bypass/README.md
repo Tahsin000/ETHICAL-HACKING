@@ -1,0 +1,1 @@
+# 27)Content Security Policy (CSP) Bypass
